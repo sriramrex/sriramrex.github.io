@@ -1,7 +1,7 @@
 ---
 title: "Design and Fabrication of a Model Jet Engine using Recycled Turbocharger Components"
 collection: publications
-category: manuscripts
+category: books
 permalink: /publication/2019-06-01-bachelors-thesis-andhra-university
 excerpt: 'Undergraduate capstone thesis presenting the design, fabrication, and testing of a model jet engine using recycled turbocharger components.'
 date: 2019-06-01

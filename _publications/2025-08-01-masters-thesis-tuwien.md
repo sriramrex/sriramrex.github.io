@@ -1,7 +1,7 @@
 ---
 title: "Development of a Passive Compliant End-Effector Interface for Collaborative Robotics"
 collection: publications
-category: manuscripts
+category: books
 permalink: /publication/2025-08-01-masters-thesis-tuwien
 excerpt: 'Master’s thesis focusing on the design and analysis of a novel passive compliant end-effector interface for collaborative robots within the EIT Manufacturing Double Degree in Robotics program.'
 date: 2025-08-01
