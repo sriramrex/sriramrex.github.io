@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0009-0005-2455-4256"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -87,7 +87,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Design and Development of Passive Folded-Beam Vibration Isolators for Robotic Reworking in the Automotive Sector'    
+    title: # 'Design and Development of Passive Folded-Beam Vibration Isolators for Robotic Reworking in the Automotive Sector'    
   conferences:
     title: 'Conference Papers'
 

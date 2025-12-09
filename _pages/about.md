@@ -13,6 +13,6 @@ passion to engineer solutions that serve humanity's exploration of nature, aimin
 
 
 *Learn from yesterday, live for today, hope for tomorrow.
-The important thing is not to stop questioning *
+The important thing is not to stop questioning*
 
  — *Albert Einstein*

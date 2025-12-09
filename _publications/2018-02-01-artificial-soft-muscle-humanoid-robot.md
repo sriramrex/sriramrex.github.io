@@ -6,7 +6,7 @@ permalink: /publication/2018-02-01-artificial-soft-muscle-humanoid-robot
 excerpt: 'Presented at the National Conference on Emerging Trends in Mechanical and Robotics Engineering, IIT Delhi, this paper explores the design, actuation mechanisms, and future potential of artificial soft muscles for humanoid robotics.'
 date: 2018-02-01
 venue: 'National Conference on Emerging Trends in Mechanical and Robotics Engineering, IIT Delhi'
-paperurl: 'https://docs.google.com/document/d/1rVVeKPIbpo8fOa81Tjje3fdqPgi9az5bxz0ck3sp1po/edit?usp=drive_link'
+paperurl: # 'https://docs.google.com/document/d/1rVVeKPIbpo8fOa81Tjje3fdqPgi9az5bxz0ck3sp1po/edit?usp=drive_link'
 slidesurl: ''
 bibtexurl: ''
 citation: 'Sai Sriram Duddu. (2018). "Artificial Soft Muscle: The Future for Building Humanoid Robots." <i>National Conference on Emerging Trends in Mechanical and Robotics Engineering, IIT Delhi</i>.'
