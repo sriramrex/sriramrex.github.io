@@ -1,7 +1,7 @@
 ---
 title: "Artificial Soft Muscle: The Future for Building Humanoid Robots"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2018-02-01-artificial-soft-muscle-humanoid-robot
 excerpt: 'Presented at the National Conference on Emerging Trends in Mechanical and Robotics Engineering, IIT Delhi, this paper explores the design, actuation mechanisms, and future potential of artificial soft muscles for humanoid robotics.'
 date: 2018-02-01
